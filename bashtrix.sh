@@ -2,8 +2,9 @@
 
 # Bashtrix v2.1 
 # Author: gerbil
+# 15/06/22
 #
-# Matrix scroller written in bash especially for the Telford Makerspace (telfordmakerspace.org.uk). 
+# Matrix scroller written in bash, specially for the Telford Makerspace (telfordmakerspace.org.uk). 
 # Loads can be modified and made better.
 # Also, there is a "div by zero" on small terminals that I can't be bothered to fix right now so use in a full screen.
 # Feel free to fix this for me.
